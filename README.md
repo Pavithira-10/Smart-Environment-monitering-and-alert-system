@@ -1,0 +1,1 @@
+# Smart-Environment-monitering-and-alert-system
